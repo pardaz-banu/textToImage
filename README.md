@@ -2,12 +2,18 @@
 
 This algorithm uses Stable diffusion XL Base model and hugging face API to generate image from the textual descriptions. 
 
-##Step-by-Step Explanation
+## Step-by-Step Explanation
 1. Import Required Libraries:
 
 requests for sending HTTP requests.
+
+
 io for handling byte streams.
+
+
 PIL (Pillow) for image processing.
+
+
 matplotlib for displaying images.
 
 
