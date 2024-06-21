@@ -5,16 +5,16 @@ This algorithm uses Stable diffusion XL Base model and hugging face API to gener
 ## Step-by-Step Explanation
 1. Import Required Libraries:
 
-requests for sending HTTP requests.
+   requests for sending HTTP requests.
 
 
-io for handling byte streams.
+   io for handling byte streams.
 
 
-PIL (Pillow) for image processing.
+   PIL (Pillow) for image processing.
 
 
-matplotlib for displaying images.
+   matplotlib for displaying images.
 
 
 2. API_URL is the endpoint for the Stable Diffusion model.
